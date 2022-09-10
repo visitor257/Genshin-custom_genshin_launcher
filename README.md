@@ -23,5 +23,5 @@ Do not change anythine in the file 'custom_launcher_sources'.
 如要删除此启动器，需确保转服压缩包处于 未选择 状态。
 Remember to unselect the extra sources pack if you are going to delete this launcher.
 
-作者的bilibili主页  Author's bilibili channel:\n
+作者的bilibili主页  Author's bilibili channel:<br>
 https://space.bilibili.com/429610197
