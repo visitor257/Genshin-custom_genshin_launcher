@@ -25,3 +25,13 @@ Remember to unselect the extra sources pack if you are going to delete this laun
 
 作者的bilibili主页  Author's bilibili channel:<br>
 https://space.bilibili.com/429610197
+
+百度网盘链接   Link BaiduNetDisk:<br>
+https://pan.baidu.com/s/1GGCyCNp3X2DIsoEPyUsXnQ?pwd=9dcd
+提取码   password: 9dcd
+
+gitee   Link gitee:<br>
+https://gitee.com/visitor257/Genshin-custom_genshin_launcher
+
+github   Link github:<br>
+https://github.com/visitor257/Genshin-custom_genshin_launcher
