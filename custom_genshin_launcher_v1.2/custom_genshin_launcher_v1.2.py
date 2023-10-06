@@ -9,7 +9,9 @@ from PySide2.QtWidgets import QWidget,QLabel,QGroupBox,QLineEdit,QPushButton,QCo
 
 fn="custom_genshin_launcher_v1.2"
 fname=[f"{fn}.py",f"{fn}.exe",f"{fn}_t.exe"]
-if path.basename(sys.argv[0]) not in fname:
+script_path = path.abspath(__file__)
+script_name = path.basename(script_path)
+if script_name not in fname:
     #import win32api, win32con
     from win32api import MessageBox
     from win32con import MB_ICONERROR
